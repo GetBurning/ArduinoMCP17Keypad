@@ -1,0 +1,7 @@
+#+TITLE: ArduinoMCP17Keypad
+#+AUTHOR: GetBurning
+#+EMAIL: getburning@bakka.su
+* Purpose
+  This library provides an interface to implement an interrupt driven keypad or keyrow over MCP23017 I2C GPIO port expander on Arduino platform.
+  Depends on Adafruit-MCP23017-Arduino-Library.
+* TODO Examples
