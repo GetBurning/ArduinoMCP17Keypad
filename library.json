@@ -1,0 +1,21 @@
+{"name": "MCP23017 keypad library",
+ "version": "1.0.0",
+ "description": "Interrupt driven keypad/keyrow library for MCP23017 I2C GPIO port expander",
+ "keywords": "keypad, keyrow, keyboard",
+ "repository": {
+     "type": "git",
+     "url": "https://github.com/GetBurning/ArduinoMCP17Keypad"
+ },
+ "authors": [
+     {"name": "GetBurning",
+      "email": "getburning@bakka.su",
+      "maintainer": true
+     }
+ ],
+ "license": "MIT",
+ "homepage": "https://github.com/GetBurning/ArduinoMCP17Keypad",
+ "dependencies": {
+ },
+ "frameworks": "*",
+ "platforms": "*"
+}
